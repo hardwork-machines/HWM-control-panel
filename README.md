@@ -1,2 +1,3 @@
 # HWM-control-panel
-Control panel design for Plasma machines and CNC
+This is a control panel design for CNC machines using pc based control system.
+![alt text](http://url/to/img.png)
